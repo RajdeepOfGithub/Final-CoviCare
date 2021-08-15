@@ -1,0 +1,35 @@
+body {
+    font-size: 25px;
+    background-color: black;
+    width: 100%;
+    
+    background-image: url(img/c2.jpg);
+    background-repeat:;
+
+}
+
+.container {
+    color: aqua;
+    text-align: center;
+}
+
+.h {
+    color: aqua;
+    opacity: 2;
+    text-align: center;
+}
+
+.info {
+    color: white;
+    text-align: justify;
+}
+
+.b {
+    color: white;
+    text-align: center;
+}
+
+.bo {
+    text-align: start;
+    color: yellow;
+}
